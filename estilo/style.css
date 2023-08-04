@@ -84,15 +84,15 @@ section.imagem > p{
  }
 
 section#img01 {
-background-image: url('../imagens/backgroundimg02\(3\).jpg');
-background-position: center center;
-background-size: cover;
+    background-image: url('../imagens/backgroundimg02\(3\).jpg');
+    background-position: center center;
+    background-size: cover;
 
 }
 
 section#img02 {
-background-image: url('../imagens/backgroundimg01\(2\).jpg');
-background-size: cover;
+    background-image: url('../imagens/backgroundimg01\(2\).jpg');
+    background-size: cover;
 
 }
 
@@ -103,3 +103,4 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
